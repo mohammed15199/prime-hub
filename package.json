@@ -1,0 +1,8 @@
+{
+  "name": "prime-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "برايم هب — صفحة هبوط تعريفية للعقارات التجارية",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
