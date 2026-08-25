@@ -11,7 +11,7 @@ const CONTACT = {
   phoneDial    : "+9665XXXXXXXX",
   /* رقمُ الواتساب (أرقامٌ فقط، بلا + وبلا أصفارٍ في البداية) */
   whatsapp     : "9665XXXXXXXX",
-  email        : "info@primehub.sa",
+  email        : "primehu.a2@gmail.com",
   address      : "جدة — الفيصليّة، طريق المدينة المنوّرة الفرعي، برج الأندلس",
   city         : "جدة",
   hours        : "الأحد – الخميس · 9:00ص – 6:00م",
